@@ -3,3 +3,28 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "clusterRepro"]
+	path = clusterRepro
+	url = https://github.com/cran/clusterRepro
+	shallow = true
+	registered = true
+[submodule "pamr"]
+	path = pamr
+	url = https://github.com/cran/pamr
+	shallow = true
+	registered = true
+[submodule "pcLasso"]
+	path = pcLasso
+	url = https://github.com/cran/pcLasso
+	shallow = true
+	registered = true
+[submodule "samr"]
+	path = samr
+	url = https://github.com/cran/samr
+	shallow = true
+	registered = true
+[submodule "selectiveInference"]
+	path = selectiveInference
+	url = https://github.com/cran/selectiveInference
+	shallow = true
+	registered = true
