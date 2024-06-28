@@ -5,9 +5,6 @@
 [submodule "clusterRepro"]
 	path = clusterRepro
 	url = https://github.com/cran/clusterRepro
-[submodule "pamr"]
-	path = pamr
-	url = https://github.com/cran/pamr
 [submodule "pcLasso"]
 	path = pcLasso
 	url = https://github.com/cran/pcLasso
